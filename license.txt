@@ -1,0 +1,11 @@
+Model Information:
+* title:	seafish
+* source:	https://sketchfab.com/3d-models/seafish-5bea1379329140fba10cca0f4300d08b
+* author:	irvinlin (https://sketchfab.com/irvinlin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "seafish" (https://sketchfab.com/3d-models/seafish-5bea1379329140fba10cca0f4300d08b) by irvinlin (https://sketchfab.com/irvinlin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
